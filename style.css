@@ -24,3 +24,14 @@ h1 {
     font-weight: 400;
     font-style: normal;
 }
+
+.card{
+    width: 320px;
+    border-radius: 30px;
+    background-color: rgb(207, 187, 160);
+    padding: 20px;
+    box-shadow: 12px 12px 24px 0px #d1d5db,-12px -12px 24px 0px #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
